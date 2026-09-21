@@ -1,4 +1,4 @@
-# Sastik — Network Engineer Portfolio
+# Swasthik — Network Engineer Portfolio
 
 A simple professional portfolio for Junior / L1 Network Engineer applications.
 
@@ -22,10 +22,4 @@ python3 -m http.server 8000
 
 Then visit `http://localhost:8000`.
 
-## Before publishing
-Replace:
-- `YOUR_EMAIL@example.com`
-- LinkedIn URL
-- GitHub URL
-- Add your resume PDF
-- Add screenshots/topology diagrams for each project
+
